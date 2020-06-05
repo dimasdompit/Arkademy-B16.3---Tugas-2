@@ -1,4 +1,4 @@
-# Arkademy B16 - Tugas 2
+# Arkademy B16.3 - Tugas 2
 ## Reverse Word
 [Source code : Reverse Word](https://github.com/dimasdompit/Arkademy-B16.3---Tugas-2/blob/master/reverse-word.js)
 #### Algoritma :
