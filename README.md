@@ -31,3 +31,4 @@ console.log(reverseWord('saya belajar javascript')); // outputnya 'javascript be
 ```
 
 ## Screen Shot Output Tugas 2
+![alt text](https://github.com/dimasdompit/Arkademy-B16.3---Tugas-2/blob/master/ss%20reverse-word.png)
